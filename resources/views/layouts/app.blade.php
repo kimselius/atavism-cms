@@ -76,12 +76,16 @@
                             </a>
                         </li>
 
+                        @can('superadmin')
                         <li class="nav-title">Game content</li>
                         <li class="nav-item">
                             <a class="nav-link" href="/home">
                                 <i class="nav-icon icon-pencil"></i> Quests
+                                <span class="badge badge-primary">COMING SOON</span>
+
                             </a>
                         </li>
+                        @endcan
                     </ul>
                 </nav>
             </div>
