@@ -8,3 +8,6 @@ Open Source CMS for Atavism
 * Starter packages (i.e. like 10 USD to start with Highend Armor etc.)
 * Auction House viewer
 * Ingame mail to website
+
+# Credits
+Based on the Laravel framework (https://laravel.com/).
