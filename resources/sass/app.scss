@@ -1,4 +1,3 @@
-
 // Fonts
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 
@@ -6,20 +5,4 @@
 @import 'variables';
 
 // Bootstrap
-// @import '~bootstrap/scss/bootstrap';
-
-// Import styles
-@import "~@coreui/coreui/scss/coreui";
-
-// Font awesome
-@import "node_modules/font-awesome/scss/font-awesome.scss";
-@import "node_modules/simple-line-icons/scss/simple-line-icons.scss";
-
-// If you want to add something do it here
-@import "custom";
-
-
-.navbar-laravel {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
-}
+@import '~bootstrap/scss/bootstrap';
